@@ -29,6 +29,6 @@ nr1 create
 
 # Reading reference
 
-[Custom Visualization](https://developer.newrelic.com/explore-docs/custom-viz/)
+- [Custom Visualization](https://developer.newrelic.com/explore-docs/custom-viz/)
 
-[Charts component](https://developer.newrelic.com/components/charts)
+- [Charts component](https://developer.newrelic.com/components/charts)
