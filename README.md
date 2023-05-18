@@ -1,4 +1,4 @@
-# sordid-collar - Custom Visualization - NewRalic
+# Custom Visualization - NewRalic
 
 ## Getting started
 
